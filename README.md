@@ -1,3 +1,5 @@
+Link Deploy Netlify :  https://5c0f7e561f12b76084e5deff--basit.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
